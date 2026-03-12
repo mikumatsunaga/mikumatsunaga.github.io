@@ -2,6 +2,7 @@
 title: "The Mediation Effect of Radical Right Parties on the Nexus between Immigration and Right-wing Terrorism."
 collection: publications
 category: manuscripts
+date: 2023-10-01
 permalink: /publication/2010-10-01-paper-title-number-1
 venue: 'Party Politics'
 paperurl: 'https://journals.sagepub.com/doi/10.1177/13540688221107084'
