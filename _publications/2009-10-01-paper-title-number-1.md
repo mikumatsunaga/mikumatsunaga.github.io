@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "The mediation effect of radical right parties on the nexus between immigration and right-wing terrorism"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-1
