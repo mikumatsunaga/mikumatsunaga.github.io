@@ -1,10 +1,9 @@
 ---
-title: "Legislative Career Differentials between Men and Women."
+title: "Will Japan's Sanae Takaichi follow in the footsteps of Giorgia Meloni on gender equality?"
 collection: publications
 category: conferences
-excerpt: 'This paper is a joint work with Jochen Rehmert. Presented or scheduled to present at SPSA, ECPG, EPSS,
-JSQPS, Humboldt Governance Lab, Kiel Political Behavior workshop.'
-date: 2026-02-17
-venue: 'working paper'
-paperurl: 'https://sites.google.com/view/jochenrehmert/abstract_career'
+excerpt: 'This academic blog is a joint work with Jochen Rehmert'
+date: 2025-02-17
+venue: 'EUROPP - European Politics and Policy, European Institute, LSE'
+paperurl: 'https://blogs.lse.ac.uk/europpblog/2025/10/09/japan-sanae-takaichi-giorgia-meloni-gender-equality/'
 ---
