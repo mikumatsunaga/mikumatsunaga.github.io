@@ -15,3 +15,4 @@ My papers are published in [*Comparative Political Studies*](https://journals.sa
 
 After finishing LL.B. in international legal studies, I earned Master of Public Policy (GraSPP, University of Tokyo), Master of Politics (Wilf Family Department of Politics, NYU), and Ph.D. (Department of Government, University of Essex). Previously, I worked as a postdoctoral research fellow at Department of Economics and Graduate School of Economics at University of Tokyo. 
 
+When I’m not working, you can find me practicing Iaido, attending Pilates classes, or hunting for the perfect raspberry chocolate pairing.
