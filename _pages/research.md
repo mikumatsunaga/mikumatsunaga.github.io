@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently proceeding with some working papers and work in progress papers in political behavior, political economy, and extremist violence and violent attitudes. 
+I am currently proceeding with some working papers and work in progress papers in political behavior, political economy, extremist violence, and violent attitudes. 
 
 ## Selected Working Papers
 
