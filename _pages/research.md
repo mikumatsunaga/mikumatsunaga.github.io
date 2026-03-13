@@ -13,7 +13,7 @@ Extremist Violence and Polarization.
 - scheduled to present at APSA (2026).
 
 [Legislative Career Differentials between Men and Women.](https://sites.google.com/view/jochenrehmert/abstract_career) (with Jochen Rehmert) 
-- presented at SPSA (2026), JSQPS Summer Meeting (2025), Humboldt Governance Lab (2025), Kiel Political Behavior workshop (2025).
+- presented at JSQPS Summer Meeting (2025), Humboldt Governance Lab (2025), Kiel Political Behavior workshop (2025), SPSA (2026).
 - scheduled to present at ECPG (2026) and EPSS (2026).
 
 The Causal Effect of Sovereign Debt’s Fiscal Stability on Military Capability. 
