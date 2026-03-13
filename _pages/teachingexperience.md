@@ -5,7 +5,7 @@ permalink: /teachingexperience/
 author_profile: true
 ---
 
-## Teaching Experience 
+## Courses 
 
 - University of Essex, Department of Government (GTA, lab): Quantitative Political Analysis (GV300), Politics and Economics Policies (GV120),  Conflict and Co-Operation (GV113), Introduction to International Relations (GV103)
 
