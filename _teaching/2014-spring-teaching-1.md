@@ -1,20 +1,19 @@
+
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+layout: archive
+title: "Teaching Experience"
+permalink: /teaching/
+author_profile: true
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Qualification:  UK Higher Education Academy Associate Fellowship, 2018-present
 
-Heading 1
-======
+## Teaching Experience (GTA and lab assistant)
 
-Heading 2
-======
+- University of Essex, Department of Government: Quantitative Political Analysis (GV300), Politics and Economics Policies (GV120),  Conflict and Co-Operation (GV113), Introduction to International Relations (GV103)
 
-Heading 3
-======
+- University of Essex, Department of Economics: Introduction to Econometric Methods (EC252), Intermediate Microeconomics (EC202),  Introduction to Economics (EC111),  Introduction to Quantitative Economics (EC114)
+
+- University of Tokyo, GraSPP: Japanese Politics 
+
+- Essex Summer School: Introduction to GIS, Quantitative Text Analysis, Mixed Method
