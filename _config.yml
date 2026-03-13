@@ -27,9 +27,9 @@ author:
   name             : "Miku Matsunaga"
   pronouns         : # example: "she/her"  
   bio              : "Political Behavior, Political Economy, Political Violence"
-  location         : "London, UK"
-  employer         : "RHUL"
-  uri              : # URL
+  location         : 
+  employer         : 
+  uri              : # U
   email            : "miku.mtg@gmail.com" 
 
   # Academic websites
