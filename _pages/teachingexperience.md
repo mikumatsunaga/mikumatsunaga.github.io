@@ -15,4 +15,5 @@ author_profile: true
 
 - Essex Summer School (lab): Introduction to GIS, Quantitative Text Analysis, Mixed Method
 
-## Qualification:  UK Higher Education Academy Associate Fellowship, 2018-present
+## Qualification
+- UK Higher Education Academy Associate Fellowship, 2018-present
