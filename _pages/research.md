@@ -16,8 +16,7 @@ Extremist Violence and Polarization.
 - presented at JSQPS Summer Meeting (2025), Humboldt Governance Lab (2025), Kiel Political Behavior workshop (2025), SPSA (2026).
 - scheduled to present at ECPG (2026) and EPSS (2026).
 
-The Causal Effect of Sovereign Debt’s Fiscal Stability on Military Capability. 
-
-Reviting Gun vs. Butter: Do Parties Shift Military Policy After the Financial Crisis? 
+The Causal Effect of Fiscal Stability on Military Capability. 
+ 
 
 
