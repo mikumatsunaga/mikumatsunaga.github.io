@@ -3,7 +3,7 @@ title: "Does right-wing violence affect public support for radical right parties
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: '2024 James Caporaso Best Paper Award, CPS'
+excerpt: '• *2024 James Caporaso Best Paper Award, Comparative Political Studies*'
 date: 2023-12-01
 venue: 'Comparative Political Studies'
 paperurl: 'https://journals.sagepub.com/doi/full/10.1177/00104140231169021'
