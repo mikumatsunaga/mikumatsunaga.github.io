@@ -9,7 +9,7 @@ I am proceeding with some working papers and work in progress projects in politi
 
 ## Selected Working Papers
 
-Extremist Violence and Polarization. 
+Does Right-Wing Extremist Violence Increase Polarization?
 - scheduled to present at *APSA* (2026).
 
 [Legislative Career Differentials between Men and Women.](https://sites.google.com/view/jochenrehmert/abstract_career) (coauthored with Jochen Rehmert) 
