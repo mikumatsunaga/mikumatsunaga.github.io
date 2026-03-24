@@ -7,5 +7,5 @@ date: 2026-02-17
 venue: 'European Journal of Public Policy'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/13501763.2025.2490814'
 citation: 'Matsunaga, M., & van Spanje, J. The stigma on right-wing parties: perceptions and voting behaviour. 
-Journal of European Public Policy, 1–29.'
+Journal of European Public Policy, 1–29. https://doi.org/10.1080/13501763.2025.2490814'
 ---
