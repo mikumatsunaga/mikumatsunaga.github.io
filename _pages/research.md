@@ -5,17 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-I am proceeding with some working papers and work in progress projects in political behavior, political economy, extremist violence, and violent attitudes. 
+I am proceeding with some working papers and work in progress projects in political behavior, political economy, extremist violence, party competition, populism, and violent attitudes. 
 
 ## Selected Working Papers
 
 - Does Right-Wing Extremist Violence Increase Polarization?
-  - scheduled to present at *APSA* (2026).
 
 - [Legislative Career Differentials between Men and Women.](https://sites.google.com/view/jochenrehmert/abstract_career) (coauthored with Jochen Rehmert) 
-  - presented at *JSQPS Summer Meeting* (2025), *Humboldt Governance Lab* (2025), *Kiel Political Behavior workshop* (2025), *SPSA* (2026).
-  - scheduled to present at *ECPG* (2026) and *EPSS* (2026).
-
+ 
 - The Causal Effect of Fiscal Credibility on Military Capacity. 
  
 
